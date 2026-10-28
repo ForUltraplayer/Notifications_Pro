@@ -1,6 +1,4 @@
 <!-- @file README.md -->
-<!-- @author: ForUltraplayer -->
-<!-- @brief Notifications Pro KR-Mnyang(Notifications Pro 포크) 한국어 안내: 추가 기능, 원본 기능 요약, 설치·초기 설정·사용법, 제한, 개인정보, 빌드, 라이선스. 원본 영문 README는 README.upstream.md에 보존. -->
 
 <div align="center">
   <img src="src/NotificationsPro.Package/Images/Square150x150Logo.png" alt="Notifications Pro 로고" width="120" />
